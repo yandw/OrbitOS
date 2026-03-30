@@ -144,10 +144,10 @@ AI 会在你工作的过程中自动建立这些连接，日积月累，知识�
 
 ### 内容筛选（可选）
 
-| 命令 | 用途 |
-| :--- | :--- |
-| `/ai-newsletters` | 筛选并总结 AI 领域通讯 (TLDR AI, The Rundown AI 等) |
-| `/ai-products` | 发现 Product Hunt、HN、GitHub、Reddit 上的 AI 新产品 |
+| 命令                | 用途                                         |
+| :---------------- | :----------------------------------------- |
+| `/ai-newsletters` | 筛选并总结 AI 领域通讯 (TLDR AI, The Rundown AI 等)  |
+| `/ai-products`    | 发现 Product Hunt、HN、GitHub、Reddit 上的 AI 新产品 |
 
 ---
 
